@@ -1,1 +1,4 @@
-this is a template doc
+README FILE
+===========
+
+1. 
